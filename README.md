@@ -7,4 +7,4 @@ A viable business model is a central concept to understand the existing ways of 
 
 Objective: We build a model to predict the potential customer who is going to purchase the newly introduced package. 
 
-Skills and Tools: EDA, Visualization, Supervised Learning, Decision treas, Ensemble methods, Model Evaluation
+Skills and Tools: EDA, Visualization, Supervised Learning, Decision trees, Ensemble methods, Model Evaluation
